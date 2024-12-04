@@ -17,7 +17,7 @@ This is a **FastAPI-based Product Management System** that provides CRUD operati
 - **Product Management**: Create, retrieve, update, and delete products.
 - **Category Management**: Create, retrieve, update, and delete categories.
 - **Inventory Tracking**: Track product quantities.
-- **REST API**: Fully RESTful endpoints for integration.
+- **FastAPI Framework**: Provides fast and efficient implementation of RESTful API endpoints.
 - **Database Migrations**: Alembic-powered migrations for managing schema changes.
 
 ## Technologies Used
@@ -34,8 +34,8 @@ This is a **FastAPI-based Product Management System** that provides CRUD operati
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/product-management-system.git
-    cd product-management-system
+    git clone https://github.com/your-username/product_management_system.git
+    cd product_management_system
     ```
 
 2. **Set Up the Virtual Environment:**
